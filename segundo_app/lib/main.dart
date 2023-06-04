@@ -55,7 +55,7 @@ class LoginPage extends StatelessWidget {
                   labelText: 'Password',
                   labelStyle: TextStyle(
                       color:
-                          Colors.white), // Define a cor do rótulo para branco
+                      Colors.white), // Define a cor do rótulo para branco
                 ),
                 obscureText: true,
               ),
@@ -72,7 +72,7 @@ class LoginPage extends StatelessWidget {
                   'Enter',
                   style: TextStyle(
                     color:
-                        Colors.blue, 
+                    Colors.blue,
                   ),
                 ),
               ),
